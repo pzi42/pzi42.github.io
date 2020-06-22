@@ -1,1 +1,1 @@
-# Neuer Titel für die erste Übungsaufgabe!
+# Neuer Titel fuer die erste Uebungsaufgabe!
