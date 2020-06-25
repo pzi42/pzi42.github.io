@@ -7,3 +7,5 @@ Mein Name ist Peter Zimmermann, ich bin 58Jahre alt. Vom Kurs erhoffe ich mir ei
 * Faehrt gerne Fahrad
 * trinkt gern ein Bierchen
 * arbeit gerne mit git
+
+> das Leben ist zu kurz um es zu verschwenden
