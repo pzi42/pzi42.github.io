@@ -11,3 +11,4 @@ Mein Name ist Peter Zimmermann, ich bin 58Jahre alt. Vom Kurs erhoffe ich mir ei
 > das Leben ist zu kurz um es zu verschwenden
 
 ![Mein Bild](https://avatars0.githubusercontent.com/u/3855073?s=60&v=4)
+<img src=https://avatars0.githubusercontent.com/u/3855073?s=60&v=4/>
